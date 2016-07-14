@@ -5,5 +5,6 @@ Front-end Angular-JS
 Back-end Spring
 
 
-<b> Note: Search relevancy not working. Similiar stuff might be easier to do with database linking.
+<b> Note: Search relevancy not working, since service is combining two result lists.
+Similiar stuff might be easier to do with database linking.
 
