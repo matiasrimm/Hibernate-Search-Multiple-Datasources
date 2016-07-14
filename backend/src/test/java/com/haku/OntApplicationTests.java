@@ -1,0 +1,18 @@
+package com.haku;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.SpringApplicationConfiguration;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.test.context.web.WebAppConfiguration;
+
+@RunWith(SpringJUnit4ClassRunner.class)
+@SpringApplicationConfiguration(classes = OntApplication.class)
+@WebAppConfiguration
+public class OntApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
